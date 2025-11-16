@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Inaruslynx
 - 👀 I’m interested in all things programming from python to VHDL.
-- 🌱 I’m currently learning game development. I'm using Godot.
+- 🌱 I'm always looking to grow especially in web development.
 - 💞️ I’m looking to collaborate on things that interest me (which is most things) from video game development to Pyhton API packages.
 - 📫 How to reach me: inaruslynx@gmail.com
